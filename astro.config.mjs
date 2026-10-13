@@ -1,9 +1,9 @@
+
 import { defineConfig } from 'astro/config';
 
-// For the simplest GitHub Pages setup, create a repository named
-// YOUR-GITHUB-USERNAME.github.io and keep base set to '/'.
+// GitHub Pages configuration for Unicorn Solar Energy
 export default defineConfig({
-  site: 'https://YOUR-GITHUB-USERNAME.github.io',
+  site: 'https://SanjeevN03.github.io',
   base: '/',
   output: 'static'
 });
