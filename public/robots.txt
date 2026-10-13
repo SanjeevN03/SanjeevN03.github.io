@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://unicornsolarenergy.github.io/sitemap.xml
